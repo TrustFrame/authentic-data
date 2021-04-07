@@ -1,0 +1,10 @@
+[package]
+name = "authentic-data"
+version = "0.1.0"
+authors = ["Dave Huseby <dwh@trustframe.com>"]
+edition = "2018"
+description = "An implementation of the authentic data objects and protocols"
+license = "Apache-2.0"
+repository = "https://github.com/TrustFrame/authentic-data"
+
+[dependencies]
